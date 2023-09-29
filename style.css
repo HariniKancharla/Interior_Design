@@ -234,13 +234,12 @@ padding: 70px 0;
     margin: 8px 90px 0 0;
 }
 
-/*.fa-caret-down{
+.fa-caret-down{
     float: right;
     margin: 8px 90px 0 0;
-}*/
-/*responsive*/
+}
 
-/*@media(max-width:767px){
+@media(max-width:767px){
     .footer-col{
         width: 34px;
         margin-bottom: 30px;
@@ -252,10 +251,10 @@ padding: 70px 0;
         width: 100%;
     }
 }
-*/
 
-/*---- responsive for small screen devices----*/
-/*@media only screen and (max-width:800px){
+
+
+@media only screen and (max-width:800px){
     .logo{
        margin: 30px auto;
     }
@@ -282,4 +281,4 @@ padding: 70px 0;
         margin-bottom: 30px;
     }
 }
-*/
+
